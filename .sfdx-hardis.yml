@@ -5,4 +5,4 @@ deploymentRepository: https://github.com/jonathanbv/sfdx-hardis-training
 notificationConfig:
   - key: ORG_LIMITS
     notifications:
-      email: log
+      email: error
