@@ -1,0 +1,4 @@
+instanceUrl: https://orgfarm-01772716d5-dev-ed.develop.my.salesforce.com
+targetUsername: jonathan.verret@protonmail.com.hardis
+msTeamsWebhookUrl:
+deploymentRepository: https://github.com/jonathanbv/sfdx-hardis-training
