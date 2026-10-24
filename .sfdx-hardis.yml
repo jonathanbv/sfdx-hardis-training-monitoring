@@ -1,4 +1,8 @@
 instanceUrl: https://orgfarm-01772716d5-dev-ed.develop.my.salesforce.com
 targetUsername: jonathan.verret@protonmail.com.hardis
-msTeamsWebhookUrl:
+msTeamsWebhookUrl: null
 deploymentRepository: https://github.com/jonathanbv/sfdx-hardis-training
+notificationConfig:
+  - key: ORG_LIMITS
+    notifications:
+      email: log
