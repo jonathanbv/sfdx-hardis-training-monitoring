@@ -9,7 +9,7 @@ Package.xml generated from content of SFDX package force-app (folder force-app)
 
 <div id="jstree-container"></div>
 
-Metadatas: 1212
+Metadatas: 1213
 
 <details><summary>ApexClass (6)</summary>
 
@@ -342,6 +342,13 @@ Metadatas: 1212
 
   • <a href="https://orgfarm-01772716d5-dev-ed.develop.my.salesforce.com/lightning/setup/Dashboards/home" target="_blank">Enablement_sfdcSESv60/</a><br/>
   • <a href="https://orgfarm-01772716d5-dev-ed.develop.my.salesforce.com/lightning/setup/Dashboards/home" target="_blank">Enablement_sfdcSESv61/</a><br/>
+
+</details>
+
+<details><summary>DebugLevel (1)</summary>
+
+
+  • SFDC_DevConsole<br/>
 
 </details>
 

@@ -9,7 +9,7 @@ Contains the entire list of metadatas that are present in the monitored org (not
 
 <div id="jstree-container"></div>
 
-Metadatas: 1974
+Metadatas: 1975
 
 <details><summary>ApexClass (10)</summary>
 
@@ -637,6 +637,13 @@ Metadatas: 1974
   • <a href="https://orgfarm-01772716d5-dev-ed.develop.my.salesforce.com/lightning/setup/Dashboards/home" target="_blank">Enablement_sfdcSESv60/Program_Dashboard_sfdcSESv60</a><br/>
   • <a href="https://orgfarm-01772716d5-dev-ed.develop.my.salesforce.com/lightning/setup/Dashboards/home" target="_blank">Enablement_sfdcSESv61/</a><br/>
   • <a href="https://orgfarm-01772716d5-dev-ed.develop.my.salesforce.com/lightning/setup/Dashboards/home" target="_blank">Enablement_sfdcSESv61/Program_Dashboard_sfdcSESv61</a><br/>
+
+</details>
+
+<details><summary>DebugLevel (1)</summary>
+
+
+  • SFDC_DevConsole<br/>
 
 </details>
 

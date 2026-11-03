@@ -287,6 +287,10 @@
         <name>Dashboard</name>
     </types>
     <types>
+        <members>SFDC_DevConsole</members>
+        <name>DebugLevel</name>
+    </types>
+    <types>
         <members>enablement/sfdcEnablement_EnablementWorkspace.sfdc_cms__languageSettings/languages</members>
         <name>DigitalExperience</name>
     </types>
