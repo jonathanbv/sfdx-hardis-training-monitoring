@@ -270,6 +270,7 @@
         <members>DataGuidance</members>
         <members>DataGuidanceStep</members>
         <members>DataGuidanceStepGroup</members>
+        <members>DataHarmonizedUserFdbk</members>
         <members>DataKitDeploymentLog</members>
         <members>DataKnowledgeRsrchRpt</members>
         <members>DataKnowledgeRsrchTmpl</members>
