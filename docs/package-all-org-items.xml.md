@@ -9,7 +9,7 @@ Contains the entire list of metadatas that are present in the monitored org (not
 
 <div id="jstree-container"></div>
 
-Metadatas: 1955
+Metadatas: 1976
 
 <details><summary>ApexClass (10)</summary>
 
@@ -1648,6 +1648,33 @@ Metadatas: 1955
 
 
   • PT1_profileSessionSetting1740026011694<br/>
+
+</details>
+
+<details><summary>QuickAction (21)</summary>
+
+
+  • Case.CloseCaseLightning<br/>
+  • Case.LogACall<br/>
+  • Case.NewChildCase<br/>
+  • CollaborationGroup.NewGroupMember<br/>
+  • CollaborationGroup.NewGroupRecord<br/>
+  • FeedItem.NewTaskFromFeedItem<br/>
+  • LogACall<br/>
+  • NewAccount<br/>
+  • NewCase<br/>
+  • NewContact<br/>
+  • NewEvent<br/>
+  • NewGroup<br/>
+  • NewLead<br/>
+  • NewNote<br/>
+  • NewOpportunity<br/>
+  • NewTask<br/>
+  • SendEmail<br/>
+  • Task.Defer<br/>
+  • Task.EditDescription<br/>
+  • Task.UpdatePriority<br/>
+  • Task.UpdateStatus<br/>
 
 </details>
 

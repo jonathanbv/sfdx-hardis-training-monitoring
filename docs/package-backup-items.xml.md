@@ -9,7 +9,7 @@ Contains the list of metadatas that are in the git backup
 
 <div id="jstree-container"></div>
 
-Metadatas: 1052
+Metadatas: 1073
 
 <details><summary>ApexClass (6)</summary>
 
@@ -734,6 +734,33 @@ Metadatas: 1052
 
 
   • PT1_profileSessionSetting1740026011694<br/>
+
+</details>
+
+<details><summary>QuickAction (21)</summary>
+
+
+  • Case.CloseCaseLightning<br/>
+  • Case.LogACall<br/>
+  • Case.NewChildCase<br/>
+  • CollaborationGroup.NewGroupMember<br/>
+  • CollaborationGroup.NewGroupRecord<br/>
+  • FeedItem.NewTaskFromFeedItem<br/>
+  • LogACall<br/>
+  • NewAccount<br/>
+  • NewCase<br/>
+  • NewContact<br/>
+  • NewEvent<br/>
+  • NewGroup<br/>
+  • NewLead<br/>
+  • NewNote<br/>
+  • NewOpportunity<br/>
+  • NewTask<br/>
+  • SendEmail<br/>
+  • Task.Defer<br/>
+  • Task.EditDescription<br/>
+  • Task.UpdatePriority<br/>
+  • Task.UpdateStatus<br/>
 
 </details>
 
